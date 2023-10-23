@@ -1,0 +1,11 @@
+C:\ProjectsStudy\Multifactor\MultifactorModels\bin\Debug\net6.0\MultifactorModels.deps.json
+C:\ProjectsStudy\Multifactor\MultifactorModels\bin\Debug\net6.0\MultifactorModels.dll
+C:\ProjectsStudy\Multifactor\MultifactorModels\bin\Debug\net6.0\MultifactorModels.pdb
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\MultifactorModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\MultifactorModels.AssemblyInfoInputs.cache
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\MultifactorModels.AssemblyInfo.cs
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\MultifactorModels.csproj.CoreCompileInputs.cache
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\MultifactorModels.dll
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\refint\MultifactorModels.dll
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\MultifactorModels.pdb
+C:\ProjectsStudy\Multifactor\MultifactorModels\obj\Debug\net6.0\ref\MultifactorModels.dll
